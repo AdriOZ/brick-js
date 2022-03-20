@@ -1,2 +1,2 @@
-# brick-js
-A Brick Breaker clone for the browser
+# pong-js
+A simple Pong clone for the browser
